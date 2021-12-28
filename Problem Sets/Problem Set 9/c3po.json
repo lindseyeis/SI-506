@@ -1,0 +1,222 @@
+{
+  "name": "C-3PO",
+  "height": "167",
+  "mass": "75",
+  "languages": {
+    "language_database": {
+      "Galactic Basic": [
+        [
+          "Human",
+          "Coruscant"
+        ],
+        [
+          "Rodian",
+          "Rodia"
+        ],
+        [
+          "Yoda's species",
+          "unknown"
+        ]
+      ],
+      "Shyriiwook": [
+        [
+          "Wookiee",
+          "Kashyyyk"
+        ]
+      ],
+      "Huttese": [
+        [
+          "Hutt",
+          "Nal Hutta"
+        ]
+      ],
+      "Dosh": [
+        [
+          "Trandoshan",
+          "Trandosha"
+        ]
+      ],
+      "Mon Calamarian": [
+        [
+          "Mon Calamari",
+          "Mon Cala"
+        ]
+      ],
+      "Ewokese": [
+        [
+          "Ewok",
+          "Endor"
+        ]
+      ],
+      "Sullutese": [
+        [
+          "Sullustan",
+          "Sullust"
+        ]
+      ],
+      "Neimoidia": [
+        [
+          "Neimodian",
+          "Cato Neimoidia"
+        ]
+      ],
+      "Gungan basic": [
+        [
+          "Gungan",
+          "Naboo"
+        ]
+      ],
+      "Toydarian": [
+        [
+          "Toydarian",
+          "Toydaria"
+        ]
+      ],
+      "Dugese": [
+        [
+          "Dug",
+          "Malastare"
+        ]
+      ],
+      "Twi'leki": [
+        [
+          "Twi'lek",
+          "Ryloth"
+        ]
+      ],
+      "Aleena": [
+        [
+          "Aleena",
+          "Aleen Minor"
+        ]
+      ],
+      "vulpterish": [
+        [
+          "Vulptereen",
+          "Vulpter"
+        ]
+      ],
+      "Xextese": [
+        [
+          "Xexto",
+          "Troiken"
+        ]
+      ],
+      "Tundan": [
+        [
+          "Toong",
+          "Tund"
+        ]
+      ],
+      "Cerean": [
+        [
+          "Cerean",
+          "Cerea"
+        ]
+      ],
+      "Nautila": [
+        [
+          "Nautolan",
+          "Glee Anselm"
+        ]
+      ],
+      "Zabraki": [
+        [
+          "Zabrak",
+          "Iridonia"
+        ]
+      ],
+      "unknown": [
+        [
+          "Tholothian",
+          "Tholoth"
+        ]
+      ],
+      "Iktotchese": [
+        [
+          "Iktotchi",
+          "Iktotch"
+        ]
+      ],
+      "Quermian": [
+        [
+          "Quermian",
+          "Quermia"
+        ]
+      ],
+      "Kel Dor": [
+        [
+          "Kel Dor",
+          "Dorin"
+        ]
+      ],
+      "Chagria": [
+        [
+          "Chagrian",
+          "Champala"
+        ]
+      ],
+      "Geonosian": [
+        [
+          "Geonosian",
+          "Geonosis"
+        ]
+      ],
+      "Mirialan": [
+        [
+          "Mirialan",
+          "Mirial"
+        ]
+      ],
+      "Clawdite": [
+        [
+          "Clawdite",
+          "Zolan"
+        ]
+      ],
+      "besalisk": [
+        [
+          "Besalisk",
+          "Ojom"
+        ]
+      ],
+      "Kaminoan": [
+        [
+          "Kaminoan",
+          "Kamino"
+        ]
+      ],
+      "Skakoan": [
+        [
+          "Skakoan",
+          "Skako"
+        ]
+      ],
+      "Muun": [
+        [
+          "Muun",
+          "Muunilinst"
+        ]
+      ],
+      "Togruti": [
+        [
+          "Togruta",
+          "Shili"
+        ]
+      ],
+      "Kaleesh": [
+        [
+          "Kaleesh",
+          "Kalee"
+        ]
+      ],
+      "Utapese": [
+        [
+          "Pau'an",
+          "Utapau"
+        ]
+      ]
+    },
+    "language_count": 34
+  }
+}

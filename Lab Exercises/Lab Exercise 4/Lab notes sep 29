@@ -1,0 +1,63 @@
+# Difference between for loop and while loop
+# list_a = [1, 2, 3]
+
+# for a in list_a:
+#     print(a)
+
+# idx = 0
+# while idx < len(list_a):
+#     print(list_a[idx])
+#     idx += 1
+
+# b = 2
+# while list_a[idx] < b:
+#     print(list_a[idx])
+#     idx += 1
+
+# for a in list_a:
+#     if (a >= b):
+#         break
+#     else:
+#         print(a)
+
+#Range is used to do something a repetitive amount of times
+# a = range(10)
+# print(a)
+
+# for i in range(10):
+#     print('hello')
+
+# list_a = [1, 2, 3]
+
+# for a in list_a:
+#     if (a ==2):
+#         continue
+#     print(a)
+# for a in list_a:
+#     if (a == 2):
+#         break
+# print('end')
+
+# Funtion Part 1: Define/create function
+            # 2. parameters (how many, the name)
+    # 1. Funtion name    2. parameters (how many, the name, the type)
+def print_elements(list_a):
+    for a in list_a:
+        print(a)
+
+def print_slogan():
+    print("Go blue")
+
+def get_first_element(list_a):
+    second_item = list_a[1]
+    return second_item
+
+second_element = get_first_element([1, 2, 3, 4]) # Assign return value to a new element
+print(second_element)
+
+
+# Function Part 2: calling the funtion
+    # 1. funtion name   2. the specific value
+list_b = [1, 2, 3]
+list_c = ['hello', 'hi']
+print_elements(list_c)
